@@ -1,0 +1,11 @@
+{
+  "__resolveType": "site/apps/deco/nuvemshop.ts",
+  "accessToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "fb07e874e56f89108f60416130f7b55b60597cab28aa6b59a184a5c8e72d7f5f3e8b1bc15e103e010223e1fa99ff2eb3",
+    "name": "NUVEMS SHOP SECRET"
+  },
+  "platform": "nuvemshop",
+  "publicUrl": "https://beepdigitalnuvemshopdeco.lojavirtualnuvem.com.br/",
+  "storeId": "5500245"
+}
